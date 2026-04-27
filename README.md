@@ -345,15 +345,7 @@ The Vite dev server will start at:
 
 ---
 
-## Screenshots
 
-> _Add screenshots here once the app is running._
-
-| Hero Page | Strategy Input | Results |
-|-----------|---------------|---------|
-| ![Hero](docs/screenshots/hero.png) | ![Input](docs/screenshots/input.png) | ![Results](docs/screenshots/results.png) |
-
----
 
 ## Development
 
