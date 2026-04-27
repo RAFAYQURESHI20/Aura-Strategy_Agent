@@ -1,0 +1,137 @@
+market_research:
+  description: >
+    Research the market for the product and understand trends, competitors, and customer needs.
+    Product: {product_name}
+    Description: {product_description}
+    Target Audience: {target_audience}
+    Budget: {budget}
+    Date: {current_date}
+
+  expected_output: >
+    A short report including:
+    - Market trends
+    - Competitor overview
+    - Customer needs
+    - Key marketing opportunities
+
+
+
+
+
+
+prepare_marketing_strategy:
+  description: >
+    Create a marketing strategy using the market research.
+    Product: {product_name}
+    Target Audience: {target_audience}
+    Date: {current_date}
+
+  expected_output: >
+    A marketing strategy that includes:
+    - Target audience segments
+    - Marketing channels
+    - Weekly plan (3 blogs, 2 reels, 5 social posts)
+    - Key success metrics
+    Save it in 'resources/drafts/marketing_strategy.md'.
+
+
+
+
+
+
+create_content_calendar:
+  description: >
+    Create a one-week content calendar based on the marketing strategy.
+    Product: {product_name}
+    Target Audience: {target_audience}
+    Date: {current_date}
+
+  expected_output: >
+    A weekly content calendar with:
+    - Content topics
+    - Content format
+    - Publishing schedule
+    Save it in 'resources/drafts/content_calendar.md'.
+
+
+
+
+
+
+prepare_post_drafts:
+  description: >
+    Create drafts for social media posts and email campaigns based on the content calendar.
+    Product: {product_name}
+    Target Audience: {target_audience}
+    Date: {current_date}
+
+  expected_output: >
+    Drafts for LinkedIn, Twitter, Instagram posts and email campaigns.
+    Save drafts in 'resources/drafts/posts/' as markdown files.
+
+
+
+
+
+
+prepare_scripts_for_reels:
+  description: >
+    Write scripts for Instagram reels based on the marketing plan.
+    Product: {product_name}
+    Target Audience: {target_audience}
+    Date: {current_date}
+
+  expected_output: >
+    Reel scripts with hook, main message, and call to action.
+    Save them in 'resources/drafts/reels/'.
+
+
+
+
+
+
+content_research_for_blogs:
+  description: >
+    Research blog topics related to the product.
+    Product: {product_name}
+    Target Audience: {target_audience}
+    Date: {current_date}
+
+  expected_output: >
+    Blog research including:
+    - Keywords
+    - Competitor blogs
+    - Suggested blog topics
+
+
+
+
+
+draft_blogs:
+  description: >
+    Write blogs based on the research and marketing strategy.
+    Product: {product_name}
+    Target Audience: {target_audience}
+    Date: {current_date}
+
+  expected_output: >
+    Blog drafts ready for review.
+    Save them in 'resources/drafts/blogs/'.
+
+
+
+
+seo_optimization:
+  description: >
+    Optimize the blogs for search engines.
+    Product: {product_name}
+    Target Audience: {target_audience}
+    Date: {current_date}
+
+  expected_output: >
+    SEO optimized blogs with:
+    - Keywords
+    - Meta descriptions
+    - Internal links
+
+

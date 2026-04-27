@@ -1,0 +1,13 @@
+
+crewai
+crewai-tools
+pydantic
+python-dotenv
+google-search-results
+tiktoken
+serpapi
+pyyaml
+google-generativeai
+fastapi
+uvicorn[standard]
+
